@@ -1,0 +1,1267 @@
+[
+  {
+    "ans": 3,
+    "ex": "• Wandering Nathpanthi and Basdeva folk singers recite the emotional narrative of Shravan Kumar on the Sarangi and Ektara.",
+    "exh": "• नाथपंथी और बांसदेवा गायक सारंगी और चिकारा पर श्रवण कुमार की अमर पितृभक्ति की कथा गाते हैं।",
+    "id": 1,
+    "opt": [
+      "Sanja Girls",
+      "Faag Singers",
+      "Alha Singers",
+      "Nathpanthi and Basdeva Jogis"
+    ],
+    "opth": [
+      "संजा कन्याएं",
+      "फाग गायक",
+      "आल्हा गायक",
+      "नाथपंथी व बांसदेवा जोगी"
+    ],
+    "q": "The ballad of Shravan Kumar's devotion to his blind parents is an essential repertoire of which folk singing group visiting Malwa and Nimar?",
+    "qh": "अपने नेत्रहीन माता-पिता के प्रति श्रवण कुमार की भक्ति का आख्यान मालवा और निमाड़ में भ्रमण करने वाले किस लोक गायक वर्ग का प्रमुख विषय है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• In Baghelkhand, Faag songs are sung with great energy accompanied by large Nagada (kettledrums) and Dholak.",
+    "exh": "• बघेलखंड में फाग गायन नगाड़े और ढोलक की तीव्र थाप पर पुरुषों द्वारा समूह में गाया जाता है।",
+    "id": 2,
+    "opt": [
+      "Sitar",
+      "Nagada and Dholak",
+      "Santoor",
+      "Violin"
+    ],
+    "opth": [
+      "सितार",
+      "नगाड़ा और ढोलक",
+      "संतूर",
+      "वायलिन"
+    ],
+    "q": "The 'Faag' singing of Baghelkhand during Holi is traditionally accompanied by which large percussion instrument played with wooden beaters?",
+    "qh": "होली के अवसर पर बघेलखंड में 'फाग गायन' पारंपरिक रूप से लकड़ी के डंडों से बजाए जाने वाले किस विशाल ताल वाद्य के साथ गाया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Leja and Kotari are ancient farewell and social songs of the Gond and Halba tribal families in southern MP and Bastar border.",
+    "exh": "• लेजा और कोटारी गीत गोंडवाना और बस्तर सीमावर्ती जनजातियों के विदाई व मांगलिक अवसरों के पारंपरिक लोकगीत हैं।",
+    "id": 3,
+    "opt": [
+      "Bastar and Gondwana border region",
+      "Nimar region",
+      "Bundelkhand region",
+      "Chambal region"
+    ],
+    "opth": [
+      "बस्तर एवं गोंडवाना सीमावर्ती अंचल",
+      "निमाड़ अंचल",
+      "बुंदेलखंड अंचल",
+      "चंबल अंचल"
+    ],
+    "q": "The 'Leja' and 'Kotari' folk songs, sung with rhythmic whistles and vocal variations, belong to the tribal cultural heritage of which region?",
+    "qh": "'लेजा' और 'कोटारी' लोकगीत, जो सीटी और विशिष्ट कंठ-ध्वनियों के साथ गाए जाते हैं, किस क्षेत्र की जनजातीय सांस्कृतिक धरोहर हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Surajbai Khande is the most prominent folk singer renowned for her soulful rendition of Bhartrihari gayan across India.<br>• Teejan Bai is associated with Pandavani.",
+    "exh": "• सूरजबाई खांडे (Surajbai Khande) भर्तृहरि लोक गायन की प्रसिद्ध मूर्धन्य गायिका हैं। तीजन बाई पंडवानी गायन से संबंधित हैं।",
+    "id": 4,
+    "opt": [
+      "Anandi Bai",
+      "Teejan Bai",
+      "Surajbai Khande",
+      "Bhuribai"
+    ],
+    "opth": [
+      "आनंदी बाई",
+      "तीजन बाई",
+      "सूरजबाई खांडे",
+      "भूरीबाई"
+    ],
+    "q": "Which celebrated folk vocalist is nationally acclaimed for her mastery in performing the traditional Bhartrihari singing of Central India?",
+    "qh": "मध्य भारत की पारंपरिक भर्तृहरि गायन शैली को राष्ट्रीय स्तर पर प्रतिष्ठित करने वाली प्रख्यात लोक गायिका कौन हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Both Assertion (A) and Reason (R) are correct, and (R) correctly explains (A). Because Pitru Paksha is a solemn period for remembering ancestors, girls sing Sanja melodiously without any instrumental beats.",
+    "exh": "• अभिकथन (A) और कारण (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है। पितृपक्ष में वाद्य बजाना वर्जित होने से कन्याएं केवल मधुर सामूहिक कंठ-स्वर में संजा गाती हैं।",
+    "id": 5,
+    "opt": [
+      "Both and are true but is not the correct explanation of",
+      "(A) is false, but is true",
+      "(A) is true, but is false",
+      "Both and are true and is the correct explanation of"
+    ],
+    "opth": [
+      "(A) और दोनों सही हैं परन्तु, की सही व्याख्या नहीं है",
+      "(A) गलत है, परन्तु सही है",
+      "(A) सही है, परन्तु गलत है",
+      "(A) और दोनों सही हैं और, की सही व्याख्या है"
+    ],
+    "q": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):<br>Assertion (A): Sanja songs of Malwa are rendered strictly without the accompaniment of any musical instrument.<br>Reason (R): In traditional folk belief, playing percussion or string instruments during the 16 days of Pitru Paksha is considered ritually inappropriate.<br>In the context of the above statements, which one of the following is correct?",
+    "qh": "नीचे दो कथन दिए गए हैं, जिनमें से एक को अभिकथन (A) तथा दूसरे को कारण (R) कहा गया है:<br>अभिकथन (A): मालवा के संजा गीत विशुद्ध रूप से बिना किसी वाद्य यंत्र की संगति के गाए जाते हैं।<br>कारण (R): लोक मान्यता के अनुसार पितृपक्ष के 16 दिनों में वाद्य यंत्र बजाना पारंपरिक रूप से वर्जित माना जाता है।<br>उपर्युक्त कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• In Birha duels, singers pose challenging riddles termed 'Ujhari' or 'Bujhawal' testing the wit and wisdom of the opposite singer.",
+    "exh": "• बिरहा में सवाल-जवाब के समय पूछे जाने वाले कूट प्रश्नों व पहेलियों को 'उझारी' या 'बुझौवल' कहा जाता है।",
+    "id": 6,
+    "opt": [
+      "Dadariya",
+      "Ujhari / Paheli",
+      "Sua",
+      "Rangat"
+    ],
+    "opth": [
+      "ददरिया",
+      "उझारी / पहेली",
+      "सुआ",
+      "रंगत"
+    ],
+    "q": "In Baghelkhand's Birha songs, what is the competitive poetic riddle presented to the rival singer called?",
+    "qh": "बघेलखंड के बिरहा गायन में प्रतिद्वंद्वी गायक के सम्मुख प्रस्तुत की जाने वाली काव्यात्मक पहेली को क्या कहा जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• All four pairs are correctly matched: Sanja and Heed belong to Malwa; Masanya and Kalgi Turra belong to Nimar.",
+    "exh": "• सभी चारों युग्म (1, 2, 3 और 4) सही सुमेलित हैं: संजा और हीड़ मालवा के हैं; मसान्या और कलगी-तुर्रा निमाड़ के प्रसिद्ध लोक गायन हैं।",
+    "id": 7,
+    "opt": [
+      "All four pairs",
+      "Only three pairs",
+      "Only one pair",
+      "Only two pairs"
+    ],
+    "opth": [
+      "सभी चार युग्म",
+      "केवल तीन युग्म",
+      "केवल एक युग्म",
+      "केवल दो युग्म"
+    ],
+    "q": "Consider the following pairs of folk singing styles and their respective regions in Madhya Pradesh:<table><tr><td>Folk Singing Tradition</td><td>Region</td></tr><tr><td>1. Sanja Songs</td><td>Malwa</td></tr><tr><td>2. Masanya</td><td>Nimar</td></tr><tr><td>3. Heed Gayan</td><td>Malwa</td></tr><tr><td>4. Kalgi Turra</td><td>Nimar</td></tr></table>How many of the above pairs are correctly matched?",
+    "qh": "मध्य प्रदेश की लोक गायन शैलियों और उनके संबंधित अंचलों के निम्नलिखित युग्मों पर विचार कीजिए:<table><tr><td>लोक गायन शैली</td><td>अंचल</td></tr><tr><td>1. संजा गीत</td><td>मालवा</td></tr><tr><td>2. मसान्या</td><td>निमाड़</td></tr><tr><td>3. हीड़ गायन</td><td>मालवा</td></tr><tr><td>4. कलगी तुर्रा</td><td>निमाड़</td></tr></table>उपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• The description refers to Folk Poet Isuri (ईसुरी), celebrated for his Chowkadiya Faags composed for his muse 'Rajau'.",
+    "exh": "• यह विवरण 'लोक कवि ईसुरी' का है, जिनकी रजऊ को संबोधित शृंगारिक चौकड़िया फागें बुंदेलखंड में अमर हैं।",
+    "id": 8,
+    "opt": [
+      "Folk Poet Isuri",
+      "Jagnik",
+      "Padmakar",
+      "Keshavdas"
+    ],
+    "opth": [
+      "लोक कवि ईसुरी",
+      "जगनिक",
+      "पद्माकर",
+      "केशवदास"
+    ],
+    "q": "Consider the following description:<br>\"He was a 19th-century folk bard of Bundelkhand renowned for creating four-line musical stanzas known as Chowkadiya Faag. His verses vividly depict the rural romance of Rajau, nature, and folk wisdom, earning him the title of the father of Bundeli Faag.\"<br>Who is the poet-singer described above?",
+    "qh": "निम्नलिखित विवरण पर विचार कीजिए:<br>\"वे 19वीं सदी के बुंदेलखंड के महान लोक कवि थे जिन्होंने 'चौकड़िया फाग' नामक चार पंक्तियों के गेय छंदों का सृजन किया। उनकी रचनाओं में रजबती (रजऊ) के प्रति प्रेम, ग्रामीण प्रकृति और लोक ज्ञान का सजीव चित्रण मिलता है।\"<br>उपर्युक्त परिच्छेद में किस लोक कवि का वर्णन किया गया है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• The Raja of Chanderi organized the famous duel between Tukangir (awarded the Kalgi crest) and Shah Ali (awarded the Turra crest).",
+    "exh": "• चंदेरी के राजा ने तुकनगीर और शाह अली के शास्त्रार्थ से प्रभावित होकर तुकनगीर को 'कलगी' और शाह अली को 'तुर्रा' भेंट किया था।",
+    "id": 9,
+    "opt": [
+      "Gwalior Princely State",
+      "Rewa Princely State",
+      "Bhopal Princely State",
+      "Chanderi Princely State"
+    ],
+    "opth": [
+      "ग्वालियर रियासत",
+      "रीवा रियासत",
+      "भोपाल रियासत",
+      "चंदेरी रियासत"
+    ],
+    "q": "The historic poetic contest of Kalgi-Turra between Tukangir and Shah Ali was organized and patronized by the Maharaja of which erstwhile princely state?",
+    "qh": "तुकनगीर और शाह अली के बीच कलगी-तुर्रा का ऐतिहासिक काव्यात्मक दंगल किस रियासत के महाराजा द्वारा आयोजित व संरक्षित किया गया था?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Sidev songs in Baghelkhand are sacred ancestral hymns narrating folk myths and ancestral deities (Kuldevtas).",
+    "exh": "• सीदेव गीत बघेलखंड में जनजातियों द्वारा अपने कुलदेवताओं, ग्राम देवताओं और पूर्वजों की स्मृति में गाए जाते हैं।",
+    "id": 10,
+    "opt": [
+      "Professional court musicians",
+      "Tribal and rural communities narrating folk deities and ancestral folklore",
+      "City brass bands",
+      "Temple priests only"
+    ],
+    "opth": [
+      "राजदरबार के संगीतकारों द्वारा",
+      "लोक देवताओं और पूर्वजों की गाथाओं का गान करने वाले जनजातीय व ग्रामीण समाज द्वारा",
+      "शहरी बैंड दलों द्वारा",
+      "केवल मंदिर के पुजारियों द्वारा"
+    ],
+    "q": "The 'Sidev Folk Songs' (सीदेव गायन) of Baghelkhand are primarily sung by:",
+    "qh": "बघेलखंड के 'सीदेव लोक गीत' मुख्य रूप से किसके द्वारा गाए जाते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Dadariya songs of the Baiga tribe are lyrical masterpieces of Shringar Rasa (romantic love, nature, and courtship).",
+    "exh": "• ददरिया गीत विशुद्ध रूप से शृंगार रस (संयोग व वियोग शृंगार) के मधुर लोकगीत हैं।",
+    "id": 11,
+    "opt": [
+      "Raudra Rasa",
+      "Karuna Rasa only",
+      "Bhibhatsa Rasa",
+      "Shringar Rasa"
+    ],
+    "opth": [
+      "रौद्र रस",
+      "केवल करुण रस",
+      "बीभत्स रस",
+      "शृंगार रस"
+    ],
+    "q": "The Dadariya folk songs of the Baiga tribe are sung in which primary classical/folk sentiment (Rasa)?",
+    "qh": "बैगा जनजाति के ददरिया लोकगीत मुख्य रूप से किस रस में गाए जाते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Statements 1, 2, and 3 are all correct: Bhartrihari gayan is Malwa's iconic Nathpanthi morning devotional tradition singing the detachment of King Bhartrihari, accompanied by Chinkara, Ektara, and Sarangi.",
+    "exh": "• सभी कथन 1, 2 और 3 सही हैं: मालवा में भर्तृहरि गायन नाथ सम्प्रदाय द्वारा प्रातःकाल चिकारा व एकतारा पर राजा भर्तृहरि-पिंगला वियोग, गोरखनाथ, कबीर और मीरा के पदों के रूप में गाया जाता है।",
+    "id": 12,
+    "opt": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "opth": [
+      "1, 2 और 3",
+      "केवल 1 और 3",
+      "केवल 1 और 2",
+      "केवल 2 और 3"
+    ],
+    "q": "With reference to the 'Bhartrihari Folk Singing' (भर्तृहरि गायन) of the Malwa region, consider the following statements:<br>1. It is traditionally sung in the early morning by the Nath sect (नाथ पंथ).<br>2. The core theme revolves around the renunciation and separation of King Bhartrihari and Queen Pingla.<br>3. Chinkara, Sarangi, and Ektara are the primary musical instruments used.<br>Which of the statements given above are correct?",
+    "qh": "मालवा अंचल के 'भर्तृहरि गायन' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:<br>1. यह पारंपरिक रूप से प्रातःकाल नाथ संप्रदाय के जोगियों द्वारा गाया जाता है।<br>2. इसका मुख्य कथानक राजा भर्तृहरि और रानी पिंगला के वैराग्य व वियोग पर आधारित है।<br>3. इसमें मुख्य वाद्य यंत्र के रूप में चिकारा, सारंगी और एकतारा का प्रयोग किया जाता है।<br>उपर्युक्त कथनों में से कौन-से सही हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Sanja: Pitru Paksha by young girls.<br>• Bhartrihari: Morning Nathpanthi ballad.<br>• Heed: Pastoral songs on Govardhan Puja.<br>• Barsati Barta: Monsoon storytelling ballad.",
+    "exh": "• संजा गीत: पितृपक्ष में कन्याओं द्वारा।<br>• भर्तृहरि: प्रातःकाल नाथपंथी गायन।<br>• हीड़: गोवर्धन पूजा पर अहीर गायन।<br>• बरसाती बारता: वर्षाकालीन चंपू काव्य।",
+    "id": 13,
+    "opt": [
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "opth": [
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "q": "Match List-I with List-II regarding the folk songs of the Malwa region:<table><tr><td>List-I (Folk Song)</td><td>List-II (Occasion / Feature)</td></tr><tr><td>A. Sanja Geet</td><td>1. Adolescent girls during 16 days of Pitru Paksha</td></tr><tr><td>B. Bhartrihari</td><td>2. Morning Nathpanthi singing with Chinkara</td></tr><tr><td>C. Heed Gayan</td><td>3. Ahir community during Govardhan Puja</td></tr><tr><td>D. Barsati Barta</td><td>4. Monsoon narrative prose-poetry ballad</td></tr></table>Select the correct answer using the codes given below:",
+    "qh": "मालवा अंचल के लोकगीतों के संदर्भ में सूची-I को सूची-II से सुमेलित कीजिए:<table><tr><td>सूची-I (लोक गीत)</td><td>सूची-II (अवसर / विशेषता)</td></tr><tr><td>A. संजा गीत</td><td>1. पितृपक्ष के 16 दिन कुंवारी कन्याओं द्वारा</td></tr><tr><td>B. भर्तृहरि गायन</td><td>2. प्रातःकाल चिकारा पर नाथपंथी गायन</td></tr><tr><td>C. हीड़ गायन</td><td>3. गोवर्धन पूजा पर अहीर समुदाय द्वारा</td></tr><tr><td>D. बरसाती बारता</td><td>4. वर्षा ऋतु का गद्य-पद्य कथा काव्य</td></tr></table>नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Prahlad Singh Tipaniya (of Luniakhedi, Ujjain) was awarded the Padma Shri in 2011 for his mesmerizing Nirguni folk singing of Sant Kabir, Guru Nanak, and Gorakhnath.",
+    "exh": "• प्रहलाद सिंह टिपानिया (उज्जैन) मालवा के विख्यात निर्गुणी कबीर गायक हैं जिन्हें 2011 में पद्मश्री से सम्मानित किया गया था।",
+    "id": 14,
+    "opt": [
+      "Omprakash Sharma",
+      "Kaluram Bamaniya",
+      "Prahlad Singh Tipaniya",
+      "Ram Sahay Pandey"
+    ],
+    "opth": [
+      "ओमप्रकाश शर्मा",
+      "कालूराम बामनिया",
+      "प्रहलाद सिंह टिपानिया",
+      "राम सहाय पांडे"
+    ],
+    "q": "Which Padma Shri awardee folk artist from Ujjain is globally celebrated for popularizing Malwa's 'Nirguni Kabir Bhajan' singing using the Tambura and Khartal?",
+    "qh": "उज्जैन के किस पद्मश्री सम्मानित लोक कलाकार को तंबूरा और खड़ताल के साथ मालवा के 'निर्गुणी कबीर भजन' गायन को विश्व भर में ख्याति दिलाने के लिए जाना जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• In Bambulia, pilgrims chant \"भोले हर-हर महादेव\" and \"नर्मदे हर\" as the spiritual refrain between metric verses.",
+    "exh": "• बंबुलिया गीतों में यात्री हर पद के बाद 'भोले बाबा हर-हर' और 'नर्मदे हर' का सामूहिक उद्घोष करते हैं।",
+    "id": 15,
+    "opt": [
+      "\"जय माता दी\"",
+      "\"जय श्री राम\"",
+      "\"राधे-राधे\"",
+      "\"हर-हर महादेव\" or \"नर्मदे हर\""
+    ],
+    "opth": [
+      "\"जय माता दी\"",
+      "\"जय श्री राम\"",
+      "\"राधे-राधे\"",
+      "\"हर-हर महादेव\" या \"नर्मदे हर\""
+    ],
+    "q": "In the Bambulia (Lamtera) singing of Bundelkhand, what signature call or refrain is echoed by pilgrims between singing couplets?",
+    "qh": "बुंदेलखंड के बंबुलिया (लमटेरा) गायन में दोहों के बीच श्रद्धालुओं द्वारा कौन-सा प्रमुख जयघोष या टेक दोहराई जाती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Gawan (or Gavlan) in Nimar are acapella spiritual hymns and couplets sung during satsangs conveying high moral teachings.",
+    "exh": "• निमाड़ में सत्संगों में बिना वाद्य के गाए जाने वाले नीति और अध्यात्म के पदों को 'गवन गीत' कहा जाता है।",
+    "id": 16,
+    "opt": [
+      "Heed Gayan",
+      "Gawan Geet",
+      "Fefariya Geet",
+      "Masanya Geet"
+    ],
+    "opth": [
+      "हीड़ गायन",
+      "गवलन / गवन गीत",
+      "फेफारिया गीत",
+      "मसान्या गीत"
+    ],
+    "q": "Which devotional couplet-singing form of Nimar is rendered during religious gatherings without musical instruments, conveying spiritual wisdom and Kabir's philosophy?",
+    "qh": "निमाड़ में बिना किसी वाद्य यंत्र के आध्यात्मिक ज्ञान और कबीर दर्शन को व्यक्त करने वाली दोहा गायन शैली कौन-सी है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Chinkara is a traditional bowed string instrument used by Nathpanthi jogis while singing Bhartrihari and Gopi Chand ballads in Malwa.",
+    "exh": "• 'चिकारा' (Chinkara) मालवा में नाथ जोगियों द्वारा भर्तृहरि गाते समय बजाया जाने वाला प्रमुख तत् वाद्य है।",
+    "id": 17,
+    "opt": [
+      "Chinkara",
+      "Dhak",
+      "Ramtula",
+      "Chang"
+    ],
+    "opth": [
+      "चिकारा",
+      "ढाक",
+      "रमतूला",
+      "चंग"
+    ],
+    "q": "Which traditional bowed string instrument made of coconut shell and horsehair is synonymous with Bhartrihari folk singing in Malwa?",
+    "qh": "नारियल की खोपड़ी और घोड़े के बाल से निर्मित वह कौन-सा पारंपरिक तत् वाद्य (तार वाद्य) है, जो मालवा के भर्तृहरि गायन का मुख्य आधार है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Berata is native to Bundelkhand (Katha gayan) and Basdeva is native to Baghelkhand (Harbole singers).",
+    "exh": "• बेरायटा बुंदेलखंड का कथा गायन है और बांसदेवा बघेलखंड की हरबोले गायन परंपरा है।",
+    "id": 18,
+    "opt": [
+      "Berata – Bundelkhand; Basdeva – Baghelkhand",
+      "Berata – Nimar; Basdeva – Malwa",
+      "Berata – Baghelkhand; Basdeva – Bundelkhand",
+      "Berata – Malwa; Basdeva – Nimar"
+    ],
+    "opth": [
+      "बेरायटा – बुंदेलखंड; बांसदेवा – बघेलखंड",
+      "बेरायटा – निमाड़; बांसदेवा – मालवा",
+      "बेरायटा – बघेलखंड; बांसदेवा – बुंदेलखंड",
+      "बेरायटा – मालवा; बांसदेवा – निमाड़"
+    ],
+    "q": "Which of the following pairs correctly identifies the cultural regions of 'Berata' and 'Basdeva' folk singing respectively?",
+    "qh": "निम्नलिखित में से कौन-सा युग्म क्रमशः 'बेरायटा' और 'बांसदेवा' लोक गायन के सांस्कृतिक अंचलों की सही पहचान करता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Devprobodhini songs are sung on Kartik Shukla Ekadashi during Tulsi Vivah and the ritual awakening of deities.",
+    "exh": "• देवप्रबोधिनी (उठो देव बैठो देव) गीत कार्तिक एकादशी पर तुलसी विवाह व देवोत्थान के समय गाए जाते हैं।",
+    "id": 19,
+    "opt": [
+      "Faag Geet",
+      "Masanya Geet",
+      "Devprobodhini / Tulsi Vivah Geet",
+      "Bidesia Geet"
+    ],
+    "opth": [
+      "फाग गीत",
+      "मसान्या गीत",
+      "देवप्रबोधिनी / तुलसी विवाह गीत",
+      "बिदेसिया गीत"
+    ],
+    "q": "In Bundelkhand and Baghelkhand, the ritual awakening of Lord Vishnu after four months of cosmic slumber (Chaturmas) on Prabodhini Ekadashi is celebrated with which folk songs?",
+    "qh": "बुंदेलखंड और बघेलखंड में प्रबोधिनी (देवउठनी) एकादशी पर चार महीने के शयन के बाद भगवान विष्णु को जगाने हेतु कौन-से लोकगीत गाए जाते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Bans Gayan (Bamboo song) is a narrative ballad tradition of the Rawat community in Baghelkhand accompanied by a long, wide bamboo flute instrument.",
+    "exh": "• 'बांस गीत' बघेलखंड में रावत/अहीर जाति द्वारा मोटे बांस के विशाल वाद्य पर राजा मोरध्वज, कर्ण आदि की कथाएं गाते हुए प्रस्तुत किया जाता है।",
+    "id": 20,
+    "opt": [
+      "Bans Gayan",
+      "Bidesia Gayan",
+      "Birha Gayan",
+      "Basdeva Gayan"
+    ],
+    "opth": [
+      "बांस गीत",
+      "बिदेसिया गायन",
+      "बिरहा गायन",
+      "बांसदेवा गायन"
+    ],
+    "q": "Which unique narrative folk singing style of Baghelkhand, performed by the Rawat/Ahir community, is accompanied by a massive wide bamboo flute instrument?",
+    "qh": "बघेलखंड की वह अनूठी कथा गायन परंपरा कौन-सी है, जो अहीर/रावत जाति द्वारा एक विशाल मोटे बांस के वाद्य (बांस वाद्य) की संगति में गाई जाती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Suspected wrongly by his elder brother Raja Jujhar Singh, Lala Hardaul consumed poison prepared by his sister-in-law Rani Champavati to prove her untainted purity.",
+    "exh": "• राजा जुझार सिंह के संदेह करने पर लाला हरदौल ने अपनी भाभी रानी चंपावती के सतीत्व को प्रमाणित करने हेतु हंसते-हंसते विषपान कर लिया था।",
+    "id": 21,
+    "opt": [
+      "Rani Champavati",
+      "Rani Kamlapati",
+      "Rani Durgavati",
+      "Rani Ahilyabai"
+    ],
+    "opth": [
+      "रानी चंपावती",
+      "रानी कमलापति",
+      "रानी दुर्गावती",
+      "रानी अहिल्याबाई"
+    ],
+    "q": "Lala Hardaul of Orchha sacrificed his life by consuming poison to uphold the honor and chastity of which queen?",
+    "qh": "ओरछा के लाला हरदौल ने किस रानी की पवित्रता और सम्मान की रक्षा हेतु विषपान कर अपने प्राणों का बलिदान दिया था?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Garbi devotional songs are accompanied by traditional Mridang, Dholak, and Jhanjh (large cymbals).",
+    "exh": "• गरबी गायन में पुरुष मृदंग, ढोलक और झांझ की तीव्र ताल पर भक्ति गीत गाते हैं।",
+    "id": 22,
+    "opt": [
+      "Mridang, Dholak, and Jhanjh",
+      "Guitar and Drums",
+      "Santoor and Sitar",
+      "Pungi and Ravanhatha"
+    ],
+    "opth": [
+      "मृदंग, ढोलक और झांझ",
+      "गिटार और ड्रम",
+      "संतूर और सितार",
+      "पुंगी और रावणहत्था"
+    ],
+    "q": "Which percussion instruments are primarily used by men in Nimar during the performance of 'Garbi' devotional hymns?",
+    "qh": "निमाड़ में पुरुषों द्वारा 'गरबी' भक्ति गीतों के गायन के समय मुख्य रूप से किन ताल वाद्यों का प्रयोग किया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Subhadra Kumari Chauhan wrote in Jhansi ki Rani: \"बुंदेले हरबोलों के मुँह हमने सुनी कहानी थी\" because Harbole bards start every recitation by chanting 'Har Har Bol'.",
+    "exh": "• 'हर-हर बोल' का उद्घोष कर भगवान का यशोगान करने के कारण बांसदेवा गायकों को 'हरबोले' (Harbole) कहा जाता है।",
+    "id": 23,
+    "opt": [
+      "They only sing during the Holi festival.",
+      "They speak all Indian languages.",
+      "They begin every morning song with the chant 'Har Har Mahadev' or 'Har Har Bol'.",
+      "They play green bamboo flutes."
+    ],
+    "opth": [
+      "वे केवल होली में गाते हैं।",
+      "वे सभी भारतीय भाषाएं बोलते हैं।",
+      "वे प्रातःकाल 'हर-हर बोल' या 'हर-हर महादेव' का उच्चारण कर गायन शुरू करते हैं।",
+      "वे हरे बांस की बांसुरी बजाते हैं।"
+    ],
+    "q": "The Basdeva singers of Baghelkhand and Bundelkhand are famously called 'Harbole' because:",
+    "qh": "बघेलखंड और बुंदेलखंड के बांसदेवा गायकों को 'हरबोले' क्यों कहा जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• 'Barsati Barta' is a seasonal monsoon narrative folk ballad of Malwa sung in Champu style (mixture of prose and poetry) during rainy nights.",
+    "exh": "• 'बरसाती बारता' मालवा का वर्षाकालीन कथा-काव्य लोक गायन है जो गद्य और पद्य के चंपू रूप में लोककथाओं को प्रस्तुत करता है।",
+    "id": 24,
+    "opt": [
+      "Bhartrihari Gayan",
+      "Barsati Barta",
+      "Lavani",
+      "Sanja Geet"
+    ],
+    "opth": [
+      "भर्तृहरि गायन",
+      "बरसाती बारता",
+      "लावणी",
+      "संजा गीत"
+    ],
+    "q": "Which narrative folk singing style of Malwa, rendered in both prose and poetry, is traditionally performed during the monsoon season describing heroic and mythological tales?",
+    "qh": "गद्य और पद्य दोनों शैलियों में प्रस्तुत की जाने वाली मालवा की वह कथा गायन परंपरा कौन-सी है, जो वर्षा ऋतु में ऐतिहासिक और पौराणिक आख्यानों का वर्णन करती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Heed gayan is a competitive pastoral narrative singing tradition of the Ahir community in Malwa performed during Govardhan Puja (post-Diwali) and Shravan month celebrating cattle wealth and Radha-Krishna.",
+    "exh": "• हीड़ गायन मालवा में अहीर/ग्वाल जाति द्वारा गोवर्धन पूजा व दीपावली के समय कृषि व गो-धन की समृद्धि तथा राधा-कृष्ण की स्तुति में गाया जाता है।",
+    "id": 25,
+    "opt": [
+      "Govardhan Puja",
+      "Makar Sankranti",
+      "Nag Panchami",
+      "Rakshabandhan"
+    ],
+    "opth": [
+      "गोवर्धन पूजा",
+      "मकर संक्रांति",
+      "नाग पंचमी",
+      "रक्षाबंधन"
+    ],
+    "q": "The 'Heed Singing' (हीड़ गायन) tradition of Malwa is predominantly performed by the Ahir/Gwal cattle-rearing community during which auspicious festival?",
+    "qh": "मालवा की 'हीड़ गायन' परंपरा मुख्य रूप से अहीर/ग्वाल पशुपालक समुदाय द्वारा किस पावन पर्व के अवसर पर गाई जाती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Bidesia in Baghelkhand expresses the deep sorrow and yearning (Viraha) of a woman awaiting her beloved who has migrated for livelihood.",
+    "exh": "• बिदेसिया बघेलखंड का प्रसिद्ध वियोग शृंगार रस प्रधान लोक गायन है जो परदेस गए पति/प्रियतम के वियोग में गाया जाता है।",
+    "id": 26,
+    "opt": [
+      "Heroic victory in battle.",
+      "Childbirth and naming ceremony.",
+      "Harvest festival celebration.",
+      "Romantic separation, longing, and yearning for a lover who has migrated to distant lands."
+    ],
+    "opth": [
+      "युद्ध में वीर रस की विजय का गीत।",
+      "जन्मोत्सव और नामकरण संस्कार का गीत।",
+      "फसल कटाई का उत्सव गीत।",
+      "परदेस गए प्रियतम के विरह, वियोग और मिलन की तड़प का शृंगारिक गीत।"
+    ],
+    "q": "The 'Bidesia Gayan' (बिदेसिया गायन) of Baghelkhand is primarily a song of:",
+    "qh": "बघेलखंड का 'बिदेसिया गायन' मुख्य रूप से किसका गीत है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• The description refers to 'Kalgi Turra', the famous competitive poetic duel tradition of Nimar and Malwa.",
+    "exh": "• यह विवरण 'कलगी-तुर्रा' का है, जो निमाड़-मालवा का सुप्रसिद्ध लोक गायन शास्त्रार्थ है।",
+    "id": 27,
+    "opt": [
+      "Mach Geet",
+      "Sanja Geet",
+      "Masanya Gayan",
+      "Kalgi Turra"
+    ],
+    "opth": [
+      "माच गीत",
+      "संजा गीत",
+      "मसान्या गायन",
+      "कलगी-तुर्रा"
+    ],
+    "q": "Consider the following description:<br>\"It is a competitive folk singing duel popular in Malwa and Nimar where two opposing Akhadas engage in continuous extempore poetic debates on philosophical, spiritual, and social themes using Chang instruments throughout the night.\"<br>Which musical tradition is being referred to?",
+    "qh": "निम्नलिखित विवरण पर विचार कीजिए:<br>\"यह मालवा और निमाड़ में प्रचलित एक प्रतिस्पर्धात्मक लोक गायन दंगल है, जिसमें दो विरोधी अखाड़े चंग वाद्य की थाप पर पूरी रात दार्शनिक, आध्यात्मिक और सामाजिक विषयों पर तात्कालिक काव्यात्मक शास्त्रार्थ करते हैं।\"<br>यहाँ किस संगीत परंपरा का उल्लेख किया जा रहा है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Sant Singaji composed his verses in the rustic, lyrical Nimadi dialect, earning him the title of the 'Kabir of Nimar'.",
+    "exh": "• संत सिंगाजी की संपूर्ण रचनाएं ठेठ 'निमाड़ी बोली' में हैं, इसी कारण उन्हें 'निमाड़ का कबीर' कहा जाता है।",
+    "id": 28,
+    "opt": [
+      "Bundeli Dialect",
+      "Nimadi Dialect",
+      "Bagheli Dialect",
+      "Brijbhasha"
+    ],
+    "opth": [
+      "बुंदेली बोली",
+      "निमाड़ी बोली",
+      "बघेली बोली",
+      "ब्रजभाषा"
+    ],
+    "q": "In which regional dialect of Madhya Pradesh are the original spiritual verses and Saakhis of Sant Singaji composed?",
+    "qh": "संत सिंगाजी के मूल आध्यात्मिक पद और साखियां मध्य प्रदेश की किस क्षेत्रीय बोली में रचित हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Competing groups of cowherds in Malwa engage in high-pitched poetic challenges known as 'Heed Dangal' during Shravan and Kartik.",
+    "exh": "• हीड़ गायन में दो प्रतिस्पर्धी दलों के बीच होने वाली प्रतियोगिता को स्थानीय स्तर पर 'हीड़ दंगल' कहा जाता है।",
+    "id": 29,
+    "opt": [
+      "Swang",
+      "Gammat",
+      "Puwara",
+      "Heed Dangal"
+    ],
+    "opth": [
+      "स्वांग",
+      "गम्मत",
+      "पुवारा",
+      "हीड़ दंगल"
+    ],
+    "q": "In the Heed singing tradition of Malwa, what is the musical duel between two competing groups of singers called?",
+    "qh": "मालवा की हीड़ गायन परंपरा में गायकों की दो प्रतिस्पर्धी टोलियों के बीच होने वाली काव्यात्मक प्रतियोगिता को क्या कहा जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Nirguni folk music in MP draws heavily upon the formless divine devotion (Nirguna Bhakti) of Kabir, Gorakhnath, Ravidas, and Dadu Dayal.",
+    "exh": "• निर्गुणी भजनों का मुख्य आधार संत कबीर, गुरु गोरखनाथ, रैदास और दादू दयाल की निर्गुण निराकार भक्ति के पद हैं।",
+    "id": 30,
+    "opt": [
+      "Sant Kabir, Guru Gorakhnath, and Sant Ravidas",
+      "Banabhatta and Bhartrihari",
+      "Amir Khusrau and Tansen",
+      "Kalidasa and Bhavabhuti"
+    ],
+    "opth": [
+      "संत कबीर, गुरु गोरखनाथ और संत रविदास",
+      "बाणभट्ट और भर्तृहरि",
+      "अमीर खुसरो और तानसेन",
+      "कालिदास और भवभूति"
+    ],
+    "q": "The 'Nirguni Bhajans' of Malwa and Nimar are primarily based on the philosophical compositions of which medieval bhakti poets?",
+    "qh": "मालवा और निमाड़ के 'निर्गुणी भजन' मुख्य रूप से किन मध्यकालीन भक्ति संतों की दार्शनिक रचनाओं पर आधारित हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• In Nimar, Garba is performed by women worshipping Goddess Amba, while 'Garbi' is an energetic male devotional singing style with clapping/sticks around the sacred altar.",
+    "exh": "• निमाड़ में देवी स्तुति में महिलाओं द्वारा किया जाने वाला गायन 'गरबा' कहलाता है, जबकि पुरुषों द्वारा लयबद्ध होकर किया जाने वाला गायन 'गरबी' कहलाता है।",
+    "id": 31,
+    "opt": [
+      "Garba uses Mridang, while Garbi is sung without instruments.",
+      "Garba is female-dominated devotional singing/dance, whereas Garbi is male-dominated rhythmic singing accompanied by wooden clappers/sticks.",
+      "Garba is sung on death ceremonies, while Garbi is sung on marriages.",
+      "Garba belongs to Bundelkhand, while Garbi belongs to Malwa."
+    ],
+    "opth": [
+      "गरबा में मृदंग बजता है, जबकि गरबी बिना वाद्य के गाई जाती है।",
+      "गरबा महिला-प्रधान भक्ति गायन/नृत्य है, जबकि गरबी पुरुषों द्वारा लकड़ी की खपच्चियों/तालियों के साथ किया जाने वाला गायन है।",
+      "गरबा मृत्यु पर गाया जाता है, जबकि गरबी विवाह पर।",
+      "गरबा बुंदेलखंड का है, जबकि गरबी मालवा की।"
+    ],
+    "q": "In the folk music tradition of Nimar during Navratri, how is 'Garbi' distinguished from 'Garba'?",
+    "qh": "नवरात्र के दौरान निमाड़ की लोक संगीत परंपरा में 'गरबी' को 'गरबा' से किस प्रकार भिन्न माना जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Alha Chhand (also called Veer Chhand) is a metric stanza containing 31 matras with caesura (yati) at the 16th and 15th matras.",
+    "exh": "• आल्हा छंद (वीर छंद) में 31 मात्राएं होती हैं, जिसमें 16 और 15 मात्राओं पर यति होती है तथा अंत में गुरु-लघु होता है।",
+    "id": 32,
+    "opt": [
+      "32 Matras",
+      "31 Matras",
+      "24 Matras",
+      "28 Matras"
+    ],
+    "opth": [
+      "32 मात्राएं",
+      "31 मात्राएं",
+      "24 मात्राएं",
+      "28 मात्राएं"
+    ],
+    "q": "In Indian prosody, the traditional poetic meter 'Alha Chhand' (आल्हा छंद) used in the Alha epic consists of how many total matras (syllabic instants) per line?",
+    "qh": "भारतीय छंदशास्त्र में आल्हा महाकाव्य में प्रयुक्त 'आल्हा छंद' (वीर छंद) में प्रति चरण कुल कितनी मात्राएं होती हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Isuri composed hundreds of immortal romantic Faags addressed affectionately to his muse 'Rajau' (Rajabati).",
+    "exh": "• ईसुरी की अधिकांश शृंगारिक फागें उनकी प्रेयसी 'रजऊ' (रजबती) को समर्पित हैं।",
+    "id": 33,
+    "opt": [
+      "Rajau",
+      "Malavika",
+      "Pingla",
+      "Champavati"
+    ],
+    "opth": [
+      "रजऊ",
+      "मालविका",
+      "पिंगला",
+      "चंपावती"
+    ],
+    "q": "In the romantic Chowkadiya Faags of folk poet Isuri, who was his beloved muse to whom most of his poetic verses are addressed?",
+    "qh": "लोक कवि ईसुरी की शृंगारिक चौकड़िया फागों में उनकी वह प्रेमिका कौन थीं, जिन्हें संबोधित कर उन्होंने अपनी अधिकांश फागों की रचना की?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• 'Masanya' (or Kaya Khoj) songs of Nimar are philosophical death-elegies sung with Thali and Dholak reminding listeners of the soul's eternal journey and bodily transience.",
+    "exh": "• निमाड़ में किसी की मृत्यु होने पर गाए जाने वाले दार्शनिक वैराग्य गीतों को 'मसान्या' (काया खोज गीत) कहा जाता है।",
+    "id": 34,
+    "opt": [
+      "Singaji Gayan",
+      "Kalgi Turra",
+      "Garbi Gayan",
+      "Masanya Songs"
+    ],
+    "opth": [
+      "सिंगाजी गायन",
+      "कलगी तुर्रा",
+      "गरबी गायन",
+      "मसान्या गीत"
+    ],
+    "q": "Which solemn folk singing tradition of Nimar, known as 'Masanya' or 'Kaya Khoj', is performed during death and bereavement ceremonies reflecting upon the mortal transience of human body?",
+    "qh": "निमाड़ की वह गंभीर लोक गायन परंपरा कौन-सी है, जिसे 'मसान्या' या 'काया खोज' कहा जाता है और मृत्यु अथवा शोक के अवसर पर मानव देह की नश्वरता को दर्शाने हेतु गाया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• In Malwa's Mach, poetic dialogue singing is structured in metered verses termed 'Rangat', 'Bol', and 'Kavitt'.",
+    "exh": "• माच लोक नाट्य में गाए जाने वाले पद्यबद्ध संवादों को 'रंगत' और 'बोल' कहा जाता है।",
+    "id": 35,
+    "opt": [
+      "Alha",
+      "Rangat and Bol",
+      "Diwari",
+      "Faag"
+    ],
+    "opth": [
+      "आल्हा",
+      "रंगत और बोल",
+      "दिवारी",
+      "फाग"
+    ],
+    "q": "The operatic and dramatic couplets sung by lead actors on elevated wooden stages in Malwa's traditional Mach theatre are called:",
+    "qh": "मालवा के पारंपरिक माच लोक नाट्य में ऊंचे काष्ठ मंचों पर मुख्य अभिनेताओं द्वारा गाए जाने वाले गेय पदों और संवादों को क्या कहा जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• In Masanya singing, a bronze Thali (plate) is inverted and played rhythmically with small sticks along with the Dholak.",
+    "exh": "• मसान्या गायन में ढोलक के साथ कांसे की थाली को उल्टी रखकर लकड़ी से बजाया जाता है जिससे शोकपूर्ण वातावरण निर्मित होता है।",
+    "id": 36,
+    "opt": [
+      "Lota",
+      "Gagri",
+      "Thali",
+      "Chimta"
+    ],
+    "opth": [
+      "लोटा",
+      "गागरी",
+      "कांस्य/पीतल की थाली",
+      "चिमटा"
+    ],
+    "q": "During the performance of 'Masanya' songs in Nimar, which metallic utensil is struck with a stick to produce a distinct mournful resonance?",
+    "qh": "निमाड़ में 'मसान्या' गीतों के गायन के दौरान किस धातु पात्र पर लकड़ी की तीली से थाप देकर विशिष्ट वैराग्य ध्वनि उत्पन्न की जाती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• This famous martial couplet praising Kshatriya valor is from Jagnik's 'Alha Khand'.",
+    "exh": "• यह सुप्रसिद्ध पंक्ति महाकवि जगनिक द्वारा रचित 'आल्हा खंड' की सर्वाधिक लोकप्रिय वीर रस पंक्ति है।",
+    "id": 37,
+    "opt": [
+      "Alha Khand",
+      "Chhatrasal Dashak",
+      "Padmavat",
+      "Ramchandrika"
+    ],
+    "opth": [
+      "आल्हा खंड",
+      "छत्रसाल दशक",
+      "पद्मावत",
+      "रामचंद्रिका"
+    ],
+    "q": "The famous heroic verse \"बारह बरस लौ कूकर जीवे, अरु तेरह लौ जिये सियार। बरिस अठारह छत्री जीवे, आगे जीवन को धिक्कार॥\" is from which folk epic of Madhya Pradesh?",
+    "qh": "\"बारह बरस लौ कूकर जीवे, अरु तेरह लौ जिये सियार। बरिस अठारह छत्री जीवे, आगे जीवन को धिक्कार॥\" यह प्रसिद्ध ओजस्वी पंक्ति मध्य प्रदेश के किस लोक महाकाव्य की है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Nathpanthi mendicants sing devotional ballads of Raja Gopi Chand's renunciation, Bhartrihari, and Gorakhnath using the Ektara and Chimta.",
+    "exh": "• नाथपंथी गायक एकतारा व चिमटा बजाते हुए राजा गोपीचंद, भर्तृहरि और गुरु गोरखनाथ के वैराग्य व अमर गाथाओं का प्रभाती गायन करते हैं।",
+    "id": 38,
+    "opt": [
+      "Raja Bhoj and Kalidasa",
+      "Alha, Udal, and Malkhan",
+      "Akbar and Birbal",
+      "Raja Gopi Chand, Raja Bhartrihari, and Guru Gorakhnath"
+    ],
+    "opth": [
+      "राजा भोज और कालिदास",
+      "आल्हा, ऊदल और मलखान",
+      "अकबर और बीरबल",
+      "राजा गोपीचंद, राजा भर्तृहरि और गुरु गोरखनाथ"
+    ],
+    "q": "The 'Nathpanthi Singers' (नाथपंथी गायक) in Nimar and Malwa awaken rural households at dawn singing the spiritual legends of which ascetic figures?",
+    "qh": "निमाड़ और मालवा में 'नाथपंथी गायक' प्रातःकाल किन तपस्वी महापुरुषों की गाथाओं का गायन करते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Chait Parab songs are celebrated during Chaitra Navratri and harvest time by Gondwana and Bastar border tribes.",
+    "exh": "• 'चैत परब' गोंड, भतरा और हलबा जनजातियों द्वारा चैत्र माह में गाया जाने वाला वसंतोत्सव गीत है।",
+    "id": 39,
+    "opt": [
+      "Korku Tribe",
+      "Gond and Bhatra Tribes",
+      "Bhil Tribe",
+      "Sahariya Tribe"
+    ],
+    "opth": [
+      "कोरकू जनजाति",
+      "गोंड और भतरा जनजाति",
+      "भील जनजाति",
+      "सहरिया जनजाति"
+    ],
+    "q": "The 'Chait Parab' (चैत परब) folk songs, sung in the spring month of Chaitra with call-and-response choruses, belong to which tribal culture?",
+    "qh": "चैत्र माह में वसंत ऋतु के स्वागत में सवाल-जवाब और समूह गान के रूप में गाए जाने वाले 'चैत परब' लोकगीत किस जनजातीय संस्कृति से संबंधित हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Sant Singaji was born in Khajuri village of Barwani district (1519 CE) and later took Samadhi in Pipliya (Khandwa).",
+    "exh": "• संत सिंगाजी का जन्म 1519 ई. में बड़वानी जिले के खजूरी गांव में गवली परिवार में हुआ था।",
+    "id": 40,
+    "opt": [
+      "Bawangaja",
+      "Sendhwa",
+      "Khajuri",
+      "Pipliya"
+    ],
+    "opth": [
+      "बावनगजा",
+      "सेंधवा",
+      "खजूरी",
+      "पिपल्या"
+    ],
+    "q": "Sant Singaji, the revered saint-poet of Nimar, was born in which village of Barwani district in 1519 CE?",
+    "qh": "निमाड़ के महान संत-कवि सिंगाजी का जन्म वर्ष 1519 ई. में बड़वानी जिले के किस गांव में हुआ था?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Chang (Dhaf) is the iconic flat circular percussion instrument beaten energetically by Kalgi-Turra competitors.",
+    "exh": "• 'चंग' (डफ) कलगी-तुर्रा गायन का मुख्य वाद्य यंत्र है जिसकी गूंजती थाप पर रात भर दंगल चलता है।",
+    "id": 41,
+    "opt": [
+      "Sarangi",
+      "Chang / Dhaf",
+      "Bansuri",
+      "Mridang"
+    ],
+    "opth": [
+      "सारंगी",
+      "चंग / डफ",
+      "बांसुरी",
+      "मृदंग"
+    ],
+    "q": "In the Kalgi Turra tradition of Nimar, which large frame drum instrument is held in one hand and beaten with sticks to create resonant thunderous rhythms?",
+    "qh": "निमाड़ की कलगी-तुर्रा परंपरा में किस बड़े गोल डफ वाद्य (फ्रेम ड्रम) को एक हाथ में पकड़कर थाप दी जाती है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Kavi Bhushan composed 'Chhatrasal Dashak' and 'Shiva Bavani' immortalizing Maharaja Chhatrasal and Chhatrapati Shivaji Maharaj.",
+    "exh": "• महाकवि भूषण ने महाराजा छत्रसाल के शौर्य का वर्णन 'छत्रसाल दशक' में किया है।",
+    "id": 42,
+    "opt": [
+      "Keshavdas",
+      "Padmakar",
+      "Kavi Bhushan",
+      "Jagnik"
+    ],
+    "opth": [
+      "केशवदास",
+      "पद्माकर",
+      "कवि भूषण",
+      "जगनिक"
+    ],
+    "q": "The heroic ballads praising the military triumphs of Bundelkhand's Maharaja Chhatrasal (\"छत्रसाल दशक\") were composed by which celebrated Riti-period court poet?",
+    "qh": "बुंदेलखंड के महाराजा छत्रसाल के युद्ध कौशल और पराक्रम की प्रशंसा में वीर रस के पद (\"छत्रसाल दशक\") किस प्रसिद्ध रीतिकाल कवि द्वारा रचे गए थे?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Folk poet Isuri was born in Mendki village (near Mauranipur / Jhansi-Tikamgarh border) in 1841 CE and created thousands of Bundeli Chowkadiya Faags.",
+    "exh": "• लोक कवि ईसुरी का जन्म 1841 ई. में मैंडकी गांव में हुआ था। उन्होंने फाग, आल्हा और नीति के पदों की रचना की।",
+    "id": 43,
+    "opt": [
+      "Kareela",
+      "Mendki",
+      "Kundalpur",
+      "Orchha"
+    ],
+    "opth": [
+      "करीला",
+      "मैंडकी",
+      "कुंडलपुर",
+      "ओरछा"
+    ],
+    "q": "Folk poet Isuri, celebrated as the 'Kalidasa of Bundeli folk literature', was born in which village of the Bundelkhand region in 1841 CE?",
+    "qh": "बुंदेली लोक साहित्य के 'कालिदास' कहे जाने वाले लोक कवि ईसुरी का जन्म 1841 ई. में बुंदेलखंड के किस गांव में हुआ था?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Lallu Bajpai is the most renowned traditional master and performer of Bundeli Alha gayan.",
+    "exh": "• लल्लू बाजपेई (Lallu Bajpai) बुंदेलखंडी आल्हा गायन के सुप्रसिद्ध पारंपरिक मूर्धन्य गायक हैं।",
+    "id": 44,
+    "opt": [
+      "Pandit Omkarnath Thakur",
+      "Surajbai Khande",
+      "Lallu Bajpai",
+      "Prahlad Tipaniya"
+    ],
+    "opth": [
+      "पंडित ओंकारनाथ ठाकुर",
+      "सूरजबाई खांडे",
+      "लल्लू बाजपेई",
+      "प्रहलाद टिपानिया"
+    ],
+    "q": "Which veteran folk singer of Madhya Pradesh is widely acclaimed as the preeminent exponent of Bundelkhandi Alha singing?",
+    "qh": "मध्य प्रदेश के कौन-से मूर्धन्य लोक गायक बुंदेलखंडी आल्हा गायन के सर्वप्रमुख प्रतिनिधि कलाकार के रूप में जाने जाते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Jagdev ka Puwara narrates the supreme sacrifice of King Jagdev offering his head to Goddess Kali/Durga, sung during Ashwin/Chaitra Navratri in Bundelkhand.",
+    "exh": "• 'जगदेव का पुवारा' में वीर जगदेव परमार द्वारा माता भवानी को अपना शीश अर्पित करने की भक्ति गाथा का नवरात्र में गायन किया जाता है।",
+    "id": 45,
+    "opt": [
+      "King Jagdev Parmar",
+      "Raja Bhoj",
+      "Chhatrasal",
+      "Alha"
+    ],
+    "opth": [
+      "राजा जगदेव परमार",
+      "राजा भोज",
+      "छत्रसाल",
+      "आल्हा"
+    ],
+    "q": "The devotional ballad 'Jagdev ka Puwara' (जगदेव का पुवारा) is sung during Navratri in Bundelkhand recounting the legendary sacrifice of which heroic devotee?",
+    "qh": "बुंदेलखंड में नवरात्र के समय गाया जाने वाला 'जगदेव का पुवारा' किस वीर भक्त के देवी दुर्गा के चरणों में शीश बलिदान की अमर गाथा का वर्णन करता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• Large Dholak and heavy Nagada drums create the galloping battlefield rhythms indispensable for Alha recitations.",
+    "exh": "• आल्हा गायन में नगाड़ा और ढोलक की तेज गूंजती थाप युद्ध के नगाड़ों जैसा समां बांध देती है।",
+    "id": 46,
+    "opt": [
+      "Flute only",
+      "Harmonica",
+      "Piano",
+      "Dholak and Nagada"
+    ],
+    "opth": [
+      "केवल बांसुरी",
+      "माउथ आर्गन",
+      "पियानो",
+      "ढोलक और नगाड़ा"
+    ],
+    "q": "Which powerful percussion instrument is indispensable during Alha Gayan to produce thunderous rhythm that elevates Veer Rasa?",
+    "qh": "आल्हा गायन के दौरान वीर रस और युद्ध के उत्साह को जगाने हेतु कौन-सा भारी ताल वाद्य अनिवार्य रूप से बजाया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Relo songs are traditional romantic and festive group songs of Muria and Maria youth of the Gond linguistic group.",
+    "exh": "• 'रेलो' मुरिया और माड़िया जनजाति के युवक-युवतियों द्वारा घोटुल व विवाह उत्सवों पर गाए जाने वाले मधुर लोकगीत हैं।",
+    "id": 47,
+    "opt": [
+      "Bharia Tribe",
+      "Sahariya Tribe",
+      "Muria and Maria",
+      "Korku Tribe"
+    ],
+    "opth": [
+      "भारिया जनजाति",
+      "सहरिया जनजाति",
+      "मुरिया और माड़िया",
+      "कोरकू जनजाति"
+    ],
+    "q": "The 'Relo Folk Song' (रेलो गीत) is a vibrant youth courtship and celebration song sung during weddings and festive gatherings by which tribal community?",
+    "qh": "'रेलो गीत' (Relo Song) विवाह और उत्सवों पर युवक-युवतियों द्वारा आनंदपूर्वक गाए जाने वाले प्रणय गीत हैं, जो किस जनजातीय समूह से संबंधित हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 3,
+    "ex": "• The description refers to 'Alha Gayan', Bundelkhand's legendary monsoon heroic ballad.",
+    "exh": "• यह विवरण 'आल्हा गायन' का है, जो बुंदेलखंड का विश्व प्रसिद्ध वीर रस लोक महाकाव्य है।",
+    "id": 48,
+    "opt": [
+      "Bhartrihari Gayan",
+      "Basdeva Gayan",
+      "Masanya Gayan",
+      "Alha Gayan"
+    ],
+    "opth": [
+      "भर्तृहरि गायन",
+      "बांसदेवा गायन",
+      "मसान्या गायन",
+      "आल्हा गायन"
+    ],
+    "q": "Consider the following description:<br>\"It is the world's longest oral heroic folk epic sung during the monsoons in Veer Rasa. Centered around the battles of the Banaphar clan heroes of Mahoba, it inspires martial fervor with the booming beats of Nagada and Dholak.\"<br>Which folk singing tradition is described above?",
+    "qh": "निम्नलिखित विवरण पर विचार कीजिए:<br>\"यह वर्षा ऋतु में वीर रस में गाया जाने वाला विश्व का सबसे लंबा मौखिक लोक वीर काव्य है। महोबा के बनाफर वंश के वीरों के युद्धों पर केंद्रित यह गायन नगाड़े और ढोलक की गूंज के साथ शौर्य और उत्साह का संचार करता है।\"<br>उपर्युक्त परिच्छेद में किस लोक गायन परंपरा का वर्णन किया गया है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Tukangir founded the Kalgi Akhada (championing Goddess Shakti) and Shah Ali founded the Turra Akhada (championing Lord Shiva).",
+    "exh": "• कलगी अखाड़े के प्रवर्तक 'तुकनगीर' तथा तुर्रा अखाड़े के प्रवर्तक 'शाह अली' माने जाते हैं।",
+    "id": 49,
+    "opt": [
+      "Tukangir and Shah Ali",
+      "Gopichand and Bhartrihari",
+      "Singaji and Kabir",
+      "Isuri and Jagnik"
+    ],
+    "opth": [
+      "तुकनगीर और शाह अली",
+      "गोपीचंद और भर्तृहरि",
+      "सिंगाजी और कबीर",
+      "ईसुरी और जगनिक"
+    ],
+    "q": "Who among the following historical medieval poet-singers are credited as the founding pioneers of the Kalgi and Turra Akhadas respectively in Central India?",
+    "qh": "मध्य भारत में कलगी और तुर्रा अखाड़ों के प्रवर्तक के रूप में निम्नलिखित में से किन मध्यकालीन संत-कवियों को श्रेय दिया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Sant Singaji of Nimar authored 12 poetic spiritual treatises in Nimadi and is revered as the patron saint of livestock.",
+    "exh": "• यह विवरण 'संत सिंगाजी' का है, जिन्होंने निमाड़ी बोली में द्वादश मास, साखी, आत्मज्ञान आदि ग्रंथों की रचना की।",
+    "id": 50,
+    "opt": [
+      "Sant Singaji",
+      "Sant Eknath",
+      "Sant Dnyaneshwar",
+      "Sant Tukaram"
+    ],
+    "opth": [
+      "संत सिंगाजी",
+      "संत एकनाथ",
+      "संत ज्ञानेश्वर",
+      "संत तुकाराम"
+    ],
+    "q": "Consider the following description:<br>\"He was a 15th-century contemporary of Sant Kabir who lived in Nimar. He authored 12 spiritual works including 'Dwadash Mas', 'Saakhian', and 'Parakh' in Nimadi, and is venerated as the deity of cattle.\"<br>Which saint-poet is described in the passage above?",
+    "qh": "निम्नलिखित विवरण पर विचार कीजिए:<br>\"वे 15वीं सदी में कबीर के समकालीन निमाड़ के महान संत थे। उन्होंने निमाड़ी में 'द्वादश मास', 'साखियां' और 'परख' सहित 12 ग्रंथों की रचना की तथा उन्हें पशुओं के रक्षक देवता के रूप में पूजा जाता है।\"<br>उपर्युक्त परिच्छेद में किस संत-कवि का वर्णन किया गया है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Bambulia (Bholageet or Lamtera) are devotional songs of Lord Shiva and Goddess Narmada sung in question-and-answer chorus by travelling pilgrims without instruments.",
+    "exh": "• बंबुलिया (भोलागीत / लमटेरा) बुंदेलखंड में शिवरात्रि, वसंत पंचमी और मकर संक्रांति पर नर्मदा स्नान जाते समय भगवान शिव की स्तुति में बिना वाद्य के गाया जाने वाला मधुर लोकगीत है।",
+    "id": 51,
+    "opt": [
+      "Faag Gayan",
+      "Alha Gayan",
+      "Bambulia Songs",
+      "Berata Gayan"
+    ],
+    "opth": [
+      "फाग गायन",
+      "आल्हा गायन",
+      "बंबुलिया गीत",
+      "बेरायटा गायन"
+    ],
+    "q": "Which devotional folk singing tradition of Bundelkhand, also known as 'Bholageet' or 'Lamtera', is sung by devotees on foot without any musical instruments during Narmada Snan, Shivratri, and Basant Panchami?",
+    "qh": "बुंदेलखंड की वह भक्तिमय लोक गायन परंपरा कौन-सी है, जिसे 'भोलागीत' या 'लमटेरा' भी कहा जाता है और श्रद्धालु बिना किसी वाद्य यंत्र के नर्मदा स्नान, शिवरात्रि व वसंत पंचमी पर गाते हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Both statements 1 and 2 are correct: Lavani in Malwa/Nimar includes philosophical (Nirguni/Bhakti) Lavani sung in mornings and romantic (Shringarik) Lavani sung on festive nights.",
+    "exh": "• दोनों कथन 1 और 2 सही हैं: मालवा-निमाड़ में लावणी गायन निर्गुणी (अध्यात्म) और शृंगारिक दो रूपों में ढोलक और झांझ के साथ गाया जाता है।",
+    "id": 52,
+    "opt": [
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2",
+      "1 only"
+    ],
+    "opth": [
+      "न तो 1 और न ही 2",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "केवल 1"
+    ],
+    "q": "Consider the following statements regarding 'Lavani' (लावणी) folk singing in Madhya Pradesh:<br>1. It is prevalent in the Malwa and Nimar regions due to historical Maratha cultural contacts.<br>2. It is classified into two distinct thematic genres: Nirguni (philosophical) and Shringarik (romantic).<br>Which of the statements given above is/are correct?",
+    "qh": "मध्य प्रदेश में 'लावणी' लोक गायन के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:<br>1. यह मराठा सांस्कृतिक प्रभाव के कारण मालवा और निमाड़ अंचल में प्रचलित है।<br>2. इसके दो प्रमुख विषयगत भेद होते हैं: निर्गुणी (दार्शनिक) और शृंगारिक (प्रणय प्रधान)।<br>उपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 1,
+    "ex": "• Pipliya Singaji (in Khandwa / East Nimar, now surrounded by the waters of Indira Sagar Dam reservoir) is the historic Samadhi site of Sant Singaji.",
+    "exh": "• संत सिंगाजी की समाधि 'पिपल्या सिंगाजी' खंडवा जिले में स्थित है, जहाँ प्रतिवर्ष शरद पूर्णिमा पर विशाल मेला लगता है।",
+    "id": 53,
+    "opt": [
+      "Burhanpur",
+      "Khandwa",
+      "Barwani",
+      "Khargone"
+    ],
+    "opth": [
+      "बुरहानपुर",
+      "खंडवा",
+      "बड़वानी",
+      "खरगोन"
+    ],
+    "q": "The sacred Samadhi and main fair of Sant Singaji, where thousands of devotees gather to sing his hymns, is located in which district of Nimar?",
+    "qh": "संत सिंगाजी की समाधि और मुख्य मेला, जहाँ हजारों श्रद्धालु उनके भजनों का गायन करने जुटते हैं, निमाड़ के किस जिले में स्थित है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 0,
+    "ex": "• Sanja figures (like Biju, Kila, Chokhad, etc.) are crafted afresh each day on plastered walls using fresh cow dung and adorned with gulbakavali/marigold petals.",
+    "exh": "• संजा कला में कन्याएं प्रतिदिन गोबर से विभिन्न मांगलिक आकृतियां बनाकर उन्हें फूलों की पंखुड़ियों और पत्तियों से सजाती हैं।",
+    "id": 54,
+    "opt": [
+      "Fresh cow dung, marigold flowers, and green leaves",
+      "Glass beads and wax",
+      "Charcoal and sand",
+      "Synthetic oil paints"
+    ],
+    "opth": [
+      "ताजा गोबर, गेंदे के फूल और हरी पत्तियां",
+      "कांच की गोलियां और मोम",
+      "कोयला और रेत",
+      "सिंथेटिक ऑयल पेंट"
+    ],
+    "q": "During the singing of Sanja songs in Malwa, what natural materials are traditionally used by adolescent girls to create the sacred daily wall motifs?",
+    "qh": "मालवा में संजा गीतों के गायन के दौरान कन्याओं द्वारा प्रतिदिन दीवार पर संजा की मांगलिक आकृतियां बनाने हेतु किन प्राकृतिक सामग्रियों का प्रयोग किया जाता है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  },
+  {
+    "ans": 2,
+    "ex": "• Berata is an ancient religious ballad/storytelling singing tradition in Bundelkhand reciting the Mahabharata and local folklore.",
+    "exh": "• बेरायटा बुंदेलखंड का धार्मिक कथा गायन है जिसमें रात के समय महाभारत, राजा नल-दमयंती व कृष्ण चरित्र के आख्यान गाए जाते हैं।",
+    "id": 55,
+    "opt": [
+      "A fast-paced martial sword dance song.",
+      "A pastoral cattle-rearing song of the Ahir tribe.",
+      "A religious narrative storytelling of Mahabharata, Krishna, and historical legends performed at night.",
+      "A funeral lament sung during bereavement."
+    ],
+    "opth": [
+      "तलवार युद्ध के समय गाया जाने वाला गीत।",
+      "अहीर जाति का पशुचारण गीत।",
+      "महाभारत, कृष्ण लीला और ऐतिहासिक आख्यानों का रात्रि के समय किया जाने वाला धार्मिक कथा गायन।",
+      "शोक के समय गाया जाने वाला विलाप गीत।"
+    ],
+    "q": "The 'Berata Gayan' (बेरायटा गायन) of Bundelkhand is characterized as:",
+    "qh": "बुंदेलखंड के 'बेरायटा गायन' की मुख्य विशेषता क्या है?",
+    "stop": "Folk Songs of Madhya Pradesh",
+    "sub": "Madhya Pradesh",
+    "top": "Art and Culture of Madhya Pradesh"
+  }
+]
